@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://rodney1100.github.io/run_buddy/
 
 ## Contribution
-Made with ❤️ by [Rodney Plancher]
+Made with ❤️ by Rodney Plancher
