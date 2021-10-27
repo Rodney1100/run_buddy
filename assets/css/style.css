@@ -307,6 +307,10 @@
         .contact-info a {
             color: #fce138;
         }
+        
+        .contact.info div {
+            float: left;
+        }
         /* REACH OUT STYLES END */
         /*footer styling start*/
         
